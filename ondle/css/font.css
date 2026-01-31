@@ -1,0 +1,247 @@
+
+@font-face {
+    font-family: 'GG';
+    src: url('../font/gg/GG_Bold.eot');
+    src: local('../font/gg/GG_Bold'),
+        url('../font/gg/GG_Boldd41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/gg/GG_Bold.woff2') format('woff2'),
+        url('../font/gg/GG_Bold.woff') format('woff'),
+        url('../font/gg/GG_Bold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GG';
+    src: url('../font/gg/GG_Regular.eot');
+    src: local('../font/gg/GG_Regular'),
+        url('../font/gg/GG_Regulard41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/gg/GG_Regular.woff2') format('woff2'),
+        url('../font/gg/GG_Regular.woff') format('woff'),
+        url('../font/gg/GG_Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'Pretendard Variable';
+	font-weight: 45 920;
+	font-style: normal;
+	font-display: swap;
+	src: local('Pretendard Variable'), url('../font/Pretendard/PretendardVariable.html') format('woff2-variations');
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../font/Pretendard/Pretendard-Thin.html') format('woff');
+    font-weight: 100;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../font/Pretendard/Pretendard-ExtraLight.html') format('woff');
+    font-weight: 200;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../font/Pretendard/Pretendard-Light.html') format('woff');
+    font-weight: 300;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../font/Pretendard/Pretendard-Regular.html') format('woff');
+    font-weight: 400;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../font/Pretendard/Pretendard-Medium.html') format('woff');
+    font-weight: 500;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../font/Pretendard/Pretendard-SemiBold.html') format('woff');
+    font-weight: 600;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../font/Pretendard/Pretendard-Bold.html') format('woff');
+    font-weight: 700;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../font/Pretendard/Pretendard-ExtraBold.html') format('woff');
+    font-weight: 800;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../font/Pretendard/Pretendard-Black.html') format('woff');
+    font-weight: 900;
+    font-display: swap;
+}
+
+/**/
+
+
+
+@font-face {
+    font-family: 'Carisma Classic';
+    src: url('../font/carisma/CarismaClassic-700Bold.eot');
+    src: local('../font/carisma/CarismaClassic-700Bold'),
+        url('../font/carisma/CarismaClassic-700Boldd41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaClassic-700Bold.woff2') format('woff2'),
+        url('../font/carisma/CarismaClassic-700Bold.woff') format('woff'),
+        url('../font/carisma/CarismaClassic-700Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Carisma Classic';
+    src: url('../font/carisma/CarismaClassic-600DemiBold.eot');
+    src: local('../font/carisma/CarismaClassic-600DemiBold'),
+        url('../font/carisma/CarismaClassic-600DemiBoldd41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaClassic-600DemiBold.woff2') format('woff2'),
+        url('../font/carisma/CarismaClassic-600DemiBold.woff') format('woff'),
+        url('../font/carisma/CarismaClassic-600DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Carisma Classic';
+    src: url('../font/carisma/CarismaClassic-500Medium.eot');
+    src: local('../font/carisma/CarismaClassic-500Medium'),
+        url('../font/carisma/CarismaClassic-500Mediumd41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaClassic-500Medium.woff2') format('woff2'),
+        url('../font/carisma/CarismaClassic-500Medium.woff') format('woff'),
+        url('../font/carisma/CarismaClassic-500Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Carisma Classic';
+    src: url('../font/carisma/CarismaClassic-400Regular.eot');
+    src: local('../font/carisma/CarismaClassic-400Regular'),
+        url('../font/carisma/CarismaClassic-400Regulard41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaClassic-400Regular.woff2') format('woff2'),
+        url('../font/carisma/CarismaClassic-400Regular.woff') format('woff'),
+        url('../font/carisma/CarismaClassic-400Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Carisma Classic';
+    src: url('../font/carisma/CarismaClassic-300Light.eot');
+    src: local('../font/carisma/CarismaClassic-300Light'),
+        url('../font/carisma/CarismaClassic-300Lightd41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaClassic-300Light.woff2') format('woff2'),
+        url('../font/carisma/CarismaClassic-300Light.woff') format('woff'),
+        url('../font/carisma/CarismaClassic-300Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-100Hairline.eot');
+    src: local('../font/carisma/CarismaGothic-100Hairline'),
+        url('../font/carisma/CarismaGothic-100Hairlined41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaGothic-100Hairline.woff2') format('woff2'),
+        url('../font/carisma/CarismaGothic-100Hairline.woff') format('woff'),
+        url('../font/carisma/CarismaGothic-100Hairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-200ExtraLight.eot');
+    src: local('../font/carisma/CarismaGothic-200ExtraLight'),
+        url('../font/carisma/CarismaGothic-200ExtraLightd41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaGothic-200ExtraLight.woff2') format('woff2'),
+        url('../font/carisma/CarismaGothic-200ExtraLight.woff') format('woff'),
+        url('../font/carisma/CarismaGothic-200ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-300Light.eot');
+    src: local('../font/carisma/CarismaGothic-300Light'),
+        url('../font/carisma/CarismaGothic-300Lightd41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaGothic-300Light.woff2') format('woff2'),
+        url('../font/carisma/CarismaGothic-300Light.woff') format('woff'),
+        url('../font/carisma/CarismaGothic-300Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-400Regular.eot');
+    src: local('../font/carisma/CarismaGothic-400Regular'),
+        url('../font/carisma/CarismaGothic-400Regulard41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaGothic-400Regular.woff2') format('woff2'),
+        url('../font/carisma/CarismaGothic-400Regular.woff') format('woff'),
+        url('../font/carisma/CarismaGothic-400Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-500Medium.eot');
+    src: local('../font/carisma/CarismaGothic-500Medium'),
+        url('../font/carisma/CarismaGothic-500Mediumd41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaGothic-500Medium.woff2') format('woff2'),
+        url('../font/carisma/CarismaGothic-500Medium.woff') format('woff'),
+        url('../font/carisma/CarismaGothic-500Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-600DemiBold.eot');
+    src: local('../font/carisma/CarismaGothic-600DemiBold'),
+        url('../font/carisma/CarismaGothic-600DemiBoldd41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaGothic-600DemiBold.woff2') format('woff2'),
+        url('../font/carisma/CarismaGothic-600DemiBold.woff') format('woff'),
+        url('../font/carisma/CarismaGothic-600DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-700Bold.eot');
+    src: local('../font/carisma/CarismaGothic-700Bold'),
+        url('../font/carisma/CarismaGothic-700Boldd41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaGothic-700Bold.woff2') format('woff2'),
+        url('../font/carisma/CarismaGothic-700Bold.woff') format('woff'),
+        url('../font/carisma/CarismaGothic-700Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-800ExtraBold.eot');
+    src: local('../font/carisma/CarismaGothic-800ExtraBold'),
+        url('../font/carisma/CarismaGothic-800ExtraBoldd41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaGothic-800ExtraBold.woff2') format('woff2'),
+        url('../font/carisma/CarismaGothic-800ExtraBold.woff') format('woff'),
+        url('../font/carisma/CarismaGothic-800ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-900UltraBold.eot');
+    src: local('../font/carisma/CarismaGothic-900UltraBold'),
+        url('../font/carisma/CarismaGothic-900UltraBoldd41d.eot?#iefix') format('embedded-opentype'),
+        url('../font/carisma/CarismaGothic-900UltraBold.woff2') format('woff2'),
+        url('../font/carisma/CarismaGothic-900UltraBold.woff') format('woff'),
+        url('../font/carisma/CarismaGothic-900UltraBold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
